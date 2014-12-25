@@ -1,0 +1,4 @@
+/home/coryxie/projects/v64/host/menuconfig/CMakeFiles/conf.dir
+/home/coryxie/projects/v64/host/menuconfig/lxdialog/CMakeFiles/lxdialog.dir
+/home/coryxie/projects/v64/host/menuconfig/CMakeFiles/mconf.dir
+/home/coryxie/projects/v64/host/menuconfig/CMakeFiles/zconf.dir
